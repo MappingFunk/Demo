@@ -4,9 +4,9 @@
   "description": "Templete for Dapp to fork",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "logo.png",
       "type": "image/x-icon",
-      "sizes": "256x256"
+      "sizes": "400x400"
     }
   ],
   "start_url": ".",
