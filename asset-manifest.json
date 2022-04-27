@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.cfd5a790.chunk.js": "/static/js/0.cfd5a790.chunk.js",
     "static/js/0.cfd5a790.chunk.js.map": "/static/js/0.cfd5a790.chunk.js.map",
-    "main.js": "/static/js/main.c849c77f.chunk.js",
-    "main.js.map": "/static/js/main.c849c77f.chunk.js.map",
+    "main.js": "/static/js/main.42d91c0a.chunk.js",
+    "main.js.map": "/static/js/main.42d91c0a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ac75110e.js",
     "runtime-main.js.map": "/static/js/runtime-main.ac75110e.js.map",
     "static/js/3.d41b286d.chunk.js": "/static/js/3.d41b286d.chunk.js",
@@ -33,11 +33,12 @@
     "static/media/onboardingMinting2.7b25170d.svg": "/static/media/onboardingMinting2.7b25170d.svg",
     "static/media/onboardingMinting3.32987ccd.svg": "/static/media/onboardingMinting3.32987ccd.svg",
     "static/media/onboatdingProvideLiq.fd73c5f1.svg": "/static/media/onboatdingProvideLiq.fd73c5f1.svg",
-    "static/media/tradeing2.87f3ee52.svg": "/static/media/tradeing2.87f3ee52.svg"
+    "static/media/tradeing2.87f3ee52.svg": "/static/media/tradeing2.87f3ee52.svg",
+    "static/media/wbtcicon.b1bafa37.svg": "/static/media/wbtcicon.b1bafa37.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac75110e.js",
     "static/js/4.1b78a270.chunk.js",
-    "static/js/main.c849c77f.chunk.js"
+    "static/js/main.42d91c0a.chunk.js"
   ]
 }
