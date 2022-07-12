@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.cfd5a790.chunk.js": "/static/js/0.cfd5a790.chunk.js",
     "static/js/0.cfd5a790.chunk.js.map": "/static/js/0.cfd5a790.chunk.js.map",
-    "main.js": "/static/js/main.d98f4a54.chunk.js",
-    "main.js.map": "/static/js/main.d98f4a54.chunk.js.map",
+    "main.js": "/static/js/main.aca13297.chunk.js",
+    "main.js.map": "/static/js/main.aca13297.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.947197f5.js",
     "runtime-main.js.map": "/static/js/runtime-main.947197f5.js.map",
     "static/js/3.d41b286d.chunk.js": "/static/js/3.d41b286d.chunk.js",
@@ -28,7 +28,6 @@
     "static/media/bunnyhead-max.90eb2dcd.svg": "/static/media/bunnyhead-max.90eb2dcd.svg",
     "static/media/collateralManangP.73c38553.svg": "/static/media/collateralManangP.73c38553.svg",
     "static/media/fbtc20.5f91e1ef.svg": "/static/media/fbtc20.5f91e1ef.svg",
-    "static/media/infoIcon.f03dc545.svg": "/static/media/infoIcon.f03dc545.svg",
     "static/media/minting.b1d6ae81.svg": "/static/media/minting.b1d6ae81.svg",
     "static/media/onboardingMinting2.7b25170d.svg": "/static/media/onboardingMinting2.7b25170d.svg",
     "static/media/onboardingMinting3.32987ccd.svg": "/static/media/onboardingMinting3.32987ccd.svg",
@@ -39,6 +38,6 @@
   "entrypoints": [
     "static/js/runtime-main.947197f5.js",
     "static/js/4.985387e4.chunk.js",
-    "static/js/main.d98f4a54.chunk.js"
+    "static/js/main.aca13297.chunk.js"
   ]
 }
