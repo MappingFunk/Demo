@@ -1,2 +1,0 @@
-(this["webpackJsonpmappingfunk-interface"]=this["webpackJsonpmappingfunk-interface"]||[]).push([[27],{1042:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return c}));t(1);var i=t(95),r=t(0);function c(){return Object(r.jsx)("div",{children:Object(r.jsx)("iframe",{style:{width:800,height:"500px"},src:i.g,frameBorder:"0"})})}}}]);
-//# sourceMappingURL=27.5d37185a.chunk.js.map
