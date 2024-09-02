@@ -1,2 +1,0 @@
-(this["webpackJsonpmappingfunk-interface"]=this["webpackJsonpmappingfunk-interface"]||[]).push([[23],{645:function(n,i){},646:function(n,i){},952:function(n,i){}}]);
-//# sourceMappingURL=23.99770eb1.chunk.js.map
