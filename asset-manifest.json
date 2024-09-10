@@ -16,8 +16,8 @@
     "static/js/6.9cfae49b.chunk.js.map": "/static/js/6.9cfae49b.chunk.js.map",
     "main.js": "/static/js/main.4dbff629.chunk.js",
     "main.js.map": "/static/js/main.4dbff629.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5bb7ddb3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5bb7ddb3.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0b27b6db.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0b27b6db.js.map",
     "static/js/9.a4ad6333.chunk.js": "/static/js/9.a4ad6333.chunk.js",
     "static/js/9.a4ad6333.chunk.js.map": "/static/js/9.a4ad6333.chunk.js.map",
     "static/js/10.7813719c.chunk.js": "/static/js/10.7813719c.chunk.js",
@@ -32,14 +32,14 @@
     "static/js/14.075d7f42.chunk.js.map": "/static/js/14.075d7f42.chunk.js.map",
     "static/js/15.6c340131.chunk.js": "/static/js/15.6c340131.chunk.js",
     "static/js/15.6c340131.chunk.js.map": "/static/js/15.6c340131.chunk.js.map",
-    "static/js/16.060326ff.chunk.js": "/static/js/16.060326ff.chunk.js",
-    "static/js/16.060326ff.chunk.js.map": "/static/js/16.060326ff.chunk.js.map",
+    "static/js/16.0ac7e463.chunk.js": "/static/js/16.0ac7e463.chunk.js",
+    "static/js/16.0ac7e463.chunk.js.map": "/static/js/16.0ac7e463.chunk.js.map",
     "static/js/17.af9ddd31.chunk.js": "/static/js/17.af9ddd31.chunk.js",
     "static/js/17.af9ddd31.chunk.js.map": "/static/js/17.af9ddd31.chunk.js.map",
     "static/js/18.515482b4.chunk.js": "/static/js/18.515482b4.chunk.js",
     "static/js/18.515482b4.chunk.js.map": "/static/js/18.515482b4.chunk.js.map",
-    "static/js/19.11edf925.chunk.js": "/static/js/19.11edf925.chunk.js",
-    "static/js/19.11edf925.chunk.js.map": "/static/js/19.11edf925.chunk.js.map",
+    "static/js/19.a461614a.chunk.js": "/static/js/19.a461614a.chunk.js",
+    "static/js/19.a461614a.chunk.js.map": "/static/js/19.a461614a.chunk.js.map",
     "static/js/20.069e050f.chunk.js": "/static/js/20.069e050f.chunk.js",
     "static/js/20.069e050f.chunk.js.map": "/static/js/20.069e050f.chunk.js.map",
     "static/js/21.48c88cd0.chunk.js": "/static/js/21.48c88cd0.chunk.js",
@@ -78,7 +78,7 @@
     "static/media/wbtcicon.b1bafa37.svg": "/static/media/wbtcicon.b1bafa37.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bb7ddb3.js",
+    "static/js/runtime-main.0b27b6db.js",
     "static/js/10.7813719c.chunk.js",
     "static/js/main.4dbff629.chunk.js"
   ]
